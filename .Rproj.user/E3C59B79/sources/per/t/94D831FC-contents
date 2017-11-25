@@ -1,0 +1,80 @@
++++
+showonlyimage = false
+draft = false
+image = "img/portfolio/hennessey.svg"
+date = "2016-11-05T18:25:22+05:30"
+title = "Calculus with Python"
+weight = 1
++++
+
+Course Materials for my Calculus course that integrates history, computers, and the mighty calculus with Python.
+
+<!--more-->
+
+#### Course Description
+
+These materials represent an introductory undergraduate Calculus class.  This course assumes little to no familiarity with Calculus, and aims to cover a basic introduction to the ideas of integration, differentiation, and differential equations.  My teaching philosophy aims to adapt a subset of the larger materials depending on the student audience and to leave substantial time for a culminating project based on student interest.
+
+#### Course Outline
+
+
+
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Section I: Introduction to Integration</th>
+      <th scope="col"></th>
+      <th scope="col"></th>
+     
+    </tr>
+  </thead>
+  <tbody>
+    <tr class = "table-secondary">
+      <th scope="row"></th>
+      <td>Mark</td>
+      <td>Otto</td>
+      
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Jacob</td>
+      <td>Thornton</td>
+     
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Larry</td>
+      <td>the Bird</td>
+   
+    </tr>
+  </tbody>
+</table>
+
+
+--------------------------------
+
+**Section II: Introduction to Differentiation**
+
+----------------------------------
+
+**Section III: Introduction to Differential Equations**
+
+
+**Section IV: Final Projects**
+
+#### Textbook
+
+I continue to compile a series of Jupyter notebooks that I use as instructional materials using Sphinx, hosting the files on Readthedocs.  You can also download the notebooks directly from the github repository.  Further, feel free to fork the website repository and adjust the notebooks to create your own course text.
+
+* [Full Text on Readthedocs](http://calculus-notes.readthedocs.io/en/latest/)
+* [Jupyter notebooks on github](https://github.com/jfkoehler/calc_docs/tree/master/source)
+
+#### Videos
+
+I have used videos with Jupyter notebooks extensively.  Here, you will find my playlist from my most recent class.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLUCTTwyv9AdWEoSy-zQnjTitmYYxF2hYZ" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+
+
